@@ -18,8 +18,8 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [Union Types](https://codesandbox.io/s/rm2rx3opqm)
 - [Interfaces](https://codesandbox.io/s/71x8n304r1)
 - [Event Interfaces](https://codesandbox.io/s/mm36pp93p9)
-- [Union Search - Complete](https://github.com/graphqlworkshop/snowtooth-unions/tree/complete)
-- [Employee Interface - Complete](https://github.com/graphqlworkshop/interface-lab/tree/complete)
+- [Union Search - Start](https://github.com/graphqlworkshop/snowtooth-unions/)
+- [Employee Interface](https://github.com/graphqlworkshop/interface-lab)
 
 ## Microservices with Apollo Federation
 
@@ -45,7 +45,8 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 
 ## Apollo Studio
 
-- [Graph Manager Student Challenge](https://slides.com/moonhighway/graph-manager/)
+- [Apollo Studio - Student Challenge](https://slides.com/moonhighway/graph-manager/)
+
   **Samples**
 
 - [TypeScript & Apollo CLI - Finished Project + Instructions](https://github.com/graphqlworkshop/snowtooth-typescript)
