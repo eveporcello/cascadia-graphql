@@ -46,9 +46,6 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 ## Apollo Studio
 
 - [Apollo Studio - Student Challenge](https://slides.com/moonhighway/graph-manager/)
-
-  **Samples**
-
 - [TypeScript & Apollo CLI - Finished Project + Instructions](https://github.com/graphqlworkshop/snowtooth-typescript)
 - [Snowtooth API](https://snowtooth.moonhighway.com)
 - [Lift Manager Sample Client Code](https://github.com/eveporcello/lift-manager/blob/master/src/index.js)
